@@ -1,5 +1,3 @@
-# Junior Developer Resume
-
 ## First Name, Last Name
 Alexandr Kondratev
 
